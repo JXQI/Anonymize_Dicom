@@ -31,8 +31,8 @@
   
 5. 参考资料：
   
-[dicom头信息](https://www.cnblogs.com/XDU-Lakers/p/9863114.html)  
-[dicom匿名化](https://pydicom.github.io/pydicom/dev/auto_examples/metadata_processing/plot_anonymize.html#anonymize-dicom-data)  
+>[dicom头信息](https://www.cnblogs.com/XDU-Lakers/p/9863114.html)  
+>[dicom匿名化](https://pydicom.github.io/pydicom/dev/auto_examples/metadata_processing/plot_anonymize.html#anonymize-dicom-data)  
 
 
 
